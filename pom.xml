@@ -6,7 +6,7 @@
 
     <groupId>io.github.dftrakesh</groupId>
     <artifactId>mailchimp</artifactId>
-    <version>1.23</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
 	<name>mailchimp</name>
@@ -54,21 +54,6 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>2.13.4</version>
-        </dependency>
-        <dependency>
-            <groupId>com.amazonaws</groupId>
-            <artifactId>aws-java-sdk-core</artifactId>
-            <version>1.12.316</version>
-        </dependency>
-        <dependency>
-            <groupId>io.github.dftrakesh</groupId>
-            <artifactId>sellingpartner-api-aa-java</artifactId>
-            <version>2022.8.3</version>
-        </dependency>
-        <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>31.1-jre</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.dataformat</groupId>
